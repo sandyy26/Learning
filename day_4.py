@@ -28,7 +28,7 @@ print(x+y+z)
 
 '''
 #create a variable inside a function,with the same name as the global variable
-
+'''
 
 x="wow"
 def myfunc():
@@ -36,3 +36,5 @@ def myfunc():
     print(x)
 myfunc()
 print(x)
+
+'''
